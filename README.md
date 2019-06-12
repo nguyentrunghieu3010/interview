@@ -6,7 +6,7 @@
 ``
 	Descriptions
 ``
-# Service Oriented Architecture (SOA)#
+### Service Oriented Architecture (SOA) ###
 ``
 	Descriptions
 ``
