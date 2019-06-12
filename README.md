@@ -2,7 +2,7 @@
 ``
 	Descriptions
 ``
-# Monolithic Architecture #
+### Monolithic Architecture ###
 ``
 	Descriptions
 ``
@@ -10,7 +10,7 @@
 ``
 	Descriptions
 ``
-# Microservice Architecture #
+### Microservice Architecture ###
 ``
 	Descriptions
 ``
@@ -18,11 +18,11 @@
 ``
 	Descriptions
 ``
-# Vertical scaling #
+### Vertical scaling ###
 ``
 	Descriptions
 ``
-# Horizontal Architecture #
+### Horizontal Architecture ###
 
 ``
 	Descriptions
@@ -31,15 +31,15 @@
 ``
 	Descriptions
 ``
-# Software as a Service #
+### Software as a Service ###
 ``
 	Descriptions
 ``
-# Platform as a Service #
+### Platform as a Service ###
 ``
 	Descriptions
 ``
-# Infrastructure as a Service #
+### Infrastructure as a Service ###
 ``
 	Descriptions
 ``
