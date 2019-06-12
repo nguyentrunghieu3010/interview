@@ -1,4 +1,4 @@
-## Software Architecture ##
+# Software Architecture #
 ``
 	Descriptions
 ``
@@ -14,7 +14,7 @@
 ``
 	Descriptions
 ``
-## Scaling ##
+# Scaling #
 ``
 	Descriptions
 ``
@@ -27,7 +27,7 @@
 ``
 	Descriptions
 ``
-## SaaS PaaS IaaS ##
+# SaaS PaaS IaaS #
 ``
 	Descriptions
 ``
@@ -43,4 +43,20 @@
 ``
 	Descriptions
 ``
-
+# Other #
+### Synchronous ###
+``
+	Descriptions
+``
+### Asynchronous ###
+``
+	Descriptions
+``
+### Blocking ###
+``
+	Descriptions
+``
+### Non-Blocking ###
+``
+	Descriptions
+``
