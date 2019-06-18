@@ -15,7 +15,7 @@
 
 ![Picture Architect](https://i.stack.imgur.com/ALg2V.jpg)
 
-![Enterprise Architect](https://diceus.com/wp-content/uploads/2018/08/ENTERPRISE-SOLUTION-TECHNICAL-1.png)
+![Enterprise Architect](https://image.slidesharecdn.com/benorstella2007soapresentation-140307044612-phpapp01/95/enterprise-architecture-og-soa-trender-13-638.jpg?cb=1394167659)
 
 ### Monolithic Architecture ###
 ``
