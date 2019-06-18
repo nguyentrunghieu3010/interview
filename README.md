@@ -21,6 +21,8 @@
 ``
 	Descriptions
 ``
+![Monolithic Architecture](https://nodexperts.com/blog/wp-content/uploads/2017/05/2017-05-12.png)
+
 ### Service Oriented Architecture (SOA) ###
 ``
 	Descriptions
