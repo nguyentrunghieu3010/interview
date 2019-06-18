@@ -11,9 +11,9 @@
 	SOA Architecture
 ``
 
-## Solution architect vs Enterprise architect vs Technical architect #
+## Enterprise architect vs Solution architect vs Technical architect #
 
-![Picture Architect](https://diceus.com/wp-content/uploads/2018/08/Technical-architect-vs-solution-architect-vs-enterprise-architect.png)
+![Picture Architect](https://i.stack.imgur.com/ALg2V.jpg)
 
 ![Enterprise Architect](https://diceus.com/wp-content/uploads/2018/08/ENTERPRISE-SOLUTION-TECHNICAL-1.png)
 
