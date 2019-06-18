@@ -1,16 +1,22 @@
 # Software Architecture #
 ``
 	Web Server Architecture
+``
+
+``
 	Cloud Architecture
+``
+
+``
 	SOA Architecture
 ``
+
 ## Solution architect vs Enterprise architect vs Technical architect #
-```
+
 ![Picture Architect](https://diceus.com/wp-content/uploads/2018/08/Technical-architect-vs-solution-architect-vs-enterprise-architect.png)
 
 ![Enterprise Architect](https://diceus.com/wp-content/uploads/2018/08/ENTERPRISE-SOLUTION-TECHNICAL-1.png)
 
-```
 ### Monolithic Architecture ###
 ``
 	Descriptions
