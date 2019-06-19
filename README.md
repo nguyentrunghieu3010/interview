@@ -55,6 +55,10 @@
 ``
 	Descriptions
 ``
+
+![Vertical](https://docs.bmc.com/docs/TSLogAnalytics/110/files/721194061/794585309/1/1491485444762/Horizontal+versus+vertical+scaling.png)
+
+
 ### Horizontal Architecture ###
 
 ``
