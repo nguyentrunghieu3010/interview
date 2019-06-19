@@ -19,13 +19,15 @@
 
 ### Monolithic Architecture ###
 
-![Pros and Cons](https://d32myzxfxyl12w.cloudfront.net/assets/images/article_images/4e1889d1e9ac4ae36f1ce491b225575656f177d7.png?1495613101)
+![Monolithic Architecture](https://i.pinimg.com/originals/90/65/aa/9065aa51ee351656f71ede4dce1887de.png)
 
 ``
 	Pros and Cons of the Monolithic Architecture
 ``
 
-![Monolithic Architecture](https://i.pinimg.com/originals/90/65/aa/9065aa51ee351656f71ede4dce1887de.png)
+![Pros and Cons](https://d32myzxfxyl12w.cloudfront.net/assets/images/article_images/4e1889d1e9ac4ae36f1ce491b225575656f177d7.png?1495613101)
+
+
 
 ### Service Oriented Architecture (SOA) ###
 ``
@@ -33,8 +35,15 @@
 ``
 ### Microservice Architecture ###
 ``
-	Descriptions
+	Data Flow in the Microservices Architecture
 ``
+
+>	Data Flow in the Microservices Architecture
+
+![Data Flow](https://d32myzxfxyl12w.cloudfront.net/assets/images/article_images/c1de72bfea7d3fbb91a5d077973e8064639e36e3.gif)
+
+![Pros and Cons](https://d32myzxfxyl12w.cloudfront.net/assets/images/article_images/4e27f6ecd221c17a466257cbf5a9a71836946fff.png)
+
 # Scaling #
 ``
 	Descriptions
