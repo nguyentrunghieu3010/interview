@@ -32,6 +32,9 @@
 ``
 	Descriptions
 ``
+
+![SOA](https://qph.fs.quoracdn.net/main-qimg-b9c03799cb16addaab9ca1eb88d8dbcc)
+
 ### Microservice Architecture ###
 
 > Data Flow in the Microservices Architecture
