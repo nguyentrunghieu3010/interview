@@ -37,6 +37,8 @@
 
 ### Microservice Architecture ###
 
+![Microservice](https://www.seekpng.com/png/full/380-3804084_microservice-architecture-of-uber-microservices-architecture-diagram.png)
+
 > Data Flow in the Microservices Architecture
 
 ![Data Flow](https://d32myzxfxyl12w.cloudfront.net/assets/images/article_images/c1de72bfea7d3fbb91a5d077973e8064639e36e3.gif)
