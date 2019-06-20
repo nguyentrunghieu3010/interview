@@ -49,8 +49,14 @@
 
 # Scaling #
 ``
-	Descriptions
+	Imagine that you are buying a brand new car which can accommodate 4 people in it. Now, say 10 of your friends need to go for a vacation. What would you do?
 ``
+
+> Would you buy a bigger car? - Vertical Scaling
+
+> Would you buy one more Nissan car ? - Horizontal Scaling
+
+
 ### Vertical scaling ###
 ``
 	Descriptions
