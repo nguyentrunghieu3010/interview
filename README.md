@@ -1,12 +1,19 @@
 # Software Architecture #
 
-> Single process.
-> Client / Server (2 processes collaborating).
+> Single process. 
+
+> Client / Server (2 processes collaborating). 
+
 > 3 Tier systems (3 processes collaborating in chains).
+
 > N Tier systems (N processes collaborating in chains).
+
 > Service oriented architecture (lots of processes interacting with each other).
+
 > Peer-to-peer architecture (lots of processes interacting without a central server).
+
 > Hybrid architectures - combinations of the above architectures.
+
 
 ![Common Software Architectures](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-2.png)
 
