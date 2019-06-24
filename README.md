@@ -71,20 +71,28 @@
 	Descriptions
 ``
 # SaaS PaaS IaaS #
+
 ``
-	Descriptions
+	SaaS platforms make software available to users over the internet, usually for a monthly subscription fee.
 ``
+
+``
+	SaaS, PaaS, and IaaS are simply three ways to describe how you can use the cloud for your business.
+``
+
+![SaaS-PaaS-IaaS](https://www.bigcommerce.com/blog/wp-content/uploads/2018/10/saas-vs-paas-vs-iaas-breakdown.jpg)
+
 ### Software as a Service ###
 ``
-	Descriptions
+	SaaS: BigCommerce, Google Apps, Salesforce, Dropbox, MailChimp, ZenDesk, DocuSign, Slack, Hubspot.
 ``
 ### Platform as a Service ###
 ``
-	Descriptions
+	PaaS: AWS Elastic Beanstalk, Heroku, Windows Azure (mostly used as PaaS), Force.com, OpenShift, Apache Stratos, Magento Commerce Cloud.
 ``
 ### Infrastructure as a Service ###
 ``
-	Descriptions
+	IaaS examples: AWS EC2, Rackspace, Google Compute Engine (GCE), Digital Ocean, Magento 1 Enterprise Edition*.
 ``
 # Other #
 ### Synchronous ###
