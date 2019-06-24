@@ -103,6 +103,9 @@
 ``
 	Descriptions
 ``
+
+![Synchronous-Asynchronous](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
+
 ### Asynchronous ###
 ``
 	Descriptions
