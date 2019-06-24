@@ -107,6 +107,9 @@
 ``
 	Descriptions
 ``
+
+![advantages](https://2.bp.blogspot.com/-hso1gQedFFI/WB9MW4o7X3I/AAAAAAAAPq8/TbpnJuAwBGs6cT6VI4FtFC9CR8UQstqoACLcB/s400/difference-between-synchronous-and-asynchronous-messages.gif)
+
 ### Blocking ###
 ``
 	Descriptions
