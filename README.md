@@ -1,15 +1,14 @@
 # Software Architecture #
-``
-	Web Server Architecture
-``
 
-``
-	Cloud Architecture
-``
+> Single process.
+> Client / Server (2 processes collaborating).
+> 3 Tier systems (3 processes collaborating in chains).
+> N Tier systems (N processes collaborating in chains).
+> Service oriented architecture (lots of processes interacting with each other).
+> Peer-to-peer architecture (lots of processes interacting without a central server).
+> Hybrid architectures - combinations of the above architectures.
 
-``
-	SOA Architecture
-``
+![Common Software Architectures](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-2.png)
 
 ## Enterprise architect vs Solution architect vs Technical architect #
 
@@ -25,8 +24,6 @@
 > Pros and Cons of the Monolithic Architecture
 
 ![Pros and Cons](https://d32myzxfxyl12w.cloudfront.net/assets/images/article_images/4e1889d1e9ac4ae36f1ce491b225575656f177d7.png?1495613101)
-
-
 
 ### Service Oriented Architecture (SOA) ###
 ``
@@ -73,16 +70,16 @@
 # SaaS PaaS IaaS #
 
 ``
-	SaaS platforms make software available to users over the internet, usually for a monthly subscription fee.
-``
-
-``
 	SaaS, PaaS, and IaaS are simply three ways to describe how you can use the cloud for your business.
 ``
 
 ![SaaS-PaaS-IaaS](https://www.bigcommerce.com/blog/wp-content/uploads/2018/10/saas-vs-paas-vs-iaas-breakdown.jpg)
 
 ### Software as a Service ###
+``
+	SaaS platforms make software available to users over the internet, usually for a monthly subscription fee.
+``
+
 ``
 	SaaS: BigCommerce, Google Apps, Salesforce, Dropbox, MailChimp, ZenDesk, DocuSign, Slack, Hubspot.
 ``
