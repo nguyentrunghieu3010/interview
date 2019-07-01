@@ -100,26 +100,18 @@
 ``
 # Other #
 ### Synchronous ###
-``
-	Descriptions
-``
+
 
 ![Synchronous-Asynchronous](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
 
 ### Asynchronous ###
-``
-	Descriptions
-``
 
 ![advantages](https://2.bp.blogspot.com/-hso1gQedFFI/WB9MW4o7X3I/AAAAAAAAPq8/TbpnJuAwBGs6cT6VI4FtFC9CR8UQstqoACLcB/s400/difference-between-synchronous-and-asynchronous-messages.gif)
 
 ### Blocking ###
-``
-	Descriptions
-``
+
 ![blocking](https://strongloop.com/blog-assets/2014/01/threading_java.png)
+
 ### Non-Blocking ###
-``
-	Descriptions
-``
-![non-blocking](https://2.bp.blogspot.com/-hso1gQedFFI/WB9MW4o7X3I/AAAAAAAAPq8/TbpnJuAwBGs6cT6VI4FtFC9CR8UQstqoACLcB/s400/difference-between-synchronous-and-asynchronous-messages.gif)
+
+![non-blocking](https://cdn-images-1.medium.com/max/1600/1*WVP8haZ_BXxVPEzsPDZWsQ.png)
