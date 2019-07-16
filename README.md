@@ -115,3 +115,7 @@
 ### Non-Blocking ###
 
 ![non-blocking](https://cdn-images-1.medium.com/max/1600/1*WVP8haZ_BXxVPEzsPDZWsQ.png)
+
+### Multi-tenant Architecture For SaaS ###
+
+![Multi-tenant](https://miro.medium.com/max/1294/1*8leW0qv4y05TWEohdrtPuw.jpeg)
