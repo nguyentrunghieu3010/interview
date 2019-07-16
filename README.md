@@ -119,3 +119,7 @@
 ### Multi-tenant Architecture For SaaS ###
 
 ![Multi-tenant](https://miro.medium.com/max/1294/1*8leW0qv4y05TWEohdrtPuw.jpeg)
+
+> Single tenant: single software, serving single customer only, (single)independent database
+
+> Multi-tenant: serving multiple customers, sharing the software app along with sharing a single database
