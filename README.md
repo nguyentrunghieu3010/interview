@@ -123,3 +123,6 @@
 > Single tenant: single software, serving single customer only, (single)independent database
 
 > Multi-tenant: serving multiple customers, sharing the software app along with sharing a single database
+
+### Git Branching Workflow ###
+![git-realease](https://jeffkreeftmeijer.com/git-flow/git-flow.png)
