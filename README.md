@@ -1,3 +1,27 @@
+API GateWay in Microservice
+========================
+
+## Main features in the API Gateway pattern
+
+> Reverse proxy or gateway routing
+
+> Requests aggregation
+
+> Cross-cutting concerns or gateway offloading
+
+## Direct client-to-microservice communication
+
+![no-gateway](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/image12.png)
+
+## Single custom API Gateway service
+
+![single-gateway](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/image12.png)
+
+## Multiple custom API Gateways
+
+![multiple-gateway](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/image12.png)
+
+
 # Software Architecture #
 
 > Single process. 
