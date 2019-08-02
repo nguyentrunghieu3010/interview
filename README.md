@@ -9,17 +9,17 @@ API GateWay in Microservice
 
 > Cross-cutting concerns or gateway offloading
 
-## Direct client-to-microservice communication
+## No API Gateway
 
 ![no-gateway](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/image12.png)
 
-## Single custom API Gateway service
+## Single API Gateway
 
-![single-gateway](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/image12.png)
+![single-gateway](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/image13.png)
 
-## Multiple custom API Gateways
+## Multiple API Gateway
 
-![multiple-gateway](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/image12.png)
+![multiple-gateway](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/image13.1.png)
 
 
 # Software Architecture #
